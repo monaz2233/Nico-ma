@@ -181,7 +181,6 @@
 ## 📧 문의
 
 - **이메일:** busymonaz@gmail.com
-- **GitHub Issues:** [버그 제보](https://github.com/yourusername/nicoma/issues)
 - **Chrome Web Store:** [리뷰 남기기](chrome-web-store-링크)
 
 ---
